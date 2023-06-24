@@ -24,4 +24,4 @@ print(MyString[2::2]) # The result is going to be all the String separated 2 by 
 MyString = "abcdefg"
 print(MyString[::-1]) # The result is going to be the reverse of the String, The first : means from the start, the second : means to the end.
 
-print('Hello World'[8])
+#test github 
