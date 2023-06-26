@@ -12,10 +12,3 @@ Booleans        bool        Logical value indicating True or False
 
 """
 
-# To show one specific letter of the String
-MyString = "Hello World"
-print(MyString[0]) # The result is going to be "H" since H is the number 0
-
-#If we need from one point to another point we can use : to make the limits
-MyString = "abcdefg"
-print(MyString[1:5]) 
