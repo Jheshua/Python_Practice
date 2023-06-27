@@ -1,6 +1,6 @@
 #lists  are ordered sequences that can hold a variety of object types they use []
 
-my_list = ["STRING", 100,23.3]
+my_list = ["STRING", 100, 23.3]
 print(len(my_list)) # We can use "len" to see the length of the variable, in this case the list
 print(my_list[0:2]) # we can also use the same concept of the range of the strings [1:3]
 
